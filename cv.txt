@@ -1,0 +1,95 @@
+RAHUL DEVDHAR
+Full stack Java Developer
+
+rahuldevdhar53139@gmail.com
+9997040214
+india
+
+Summary
+======
+Full Stack Developer with over 10 years of experience in Java/JS and their frameworks, Python, HTML and CSS. Developed over 60 websites from scratch at Carroll, created more than 100 technical design documents for Bill.com, currently saving over $400K per year at Airbnb with data processing automation. Won the Best Scrum Team award and Best Team Leader at Airbnb for helping the company survive Covid-19 without laying off any of my developers.
+
+
+Experience
+======
+Full stack Java Developer
+Airbnb
+01/2018 - Ongoing
+india
+Airbnb is an American company that operates an online marketplace for lodging, homestays for vacation rentals, and tourism activities. We are a world leader in our field, valued at $101B and offering more than 5.5M listings.
+ - Mentor & Scrum master of a 20-person team
+ - Developed 5 data processing automation systems, saving over $400K / yr
+ - Analysed and developed over 20 new features in Java (EJB2, Spring, Hibernate, Swing) to enhance load times (by 75%) & user experience
+ - Developed a PHP script to restrict hosts from uploading low-quality files or unsupported formats, saving over 20 TB of storage and 400h of labor / yr
+ - Part of the risk management board - helped develop a strategy to survive the Covid-19 crisis without losing developers from my or other teams
+
+Java Developer
+Bill.com
+01/2014 - 01/2018
+Seattle, WA
+Bill.com is a world-leading web service and mobile app that helps you keep track of your bills. You can pay bills, loans, rent and others directly through the app/website.
+ - Created more than 100 technical design documents and implemented Business logic for 60 features
+ - Developed a 3-tier architecture that provided separation of database, business and client logic
+ - Found and fixed over 100 Bugs, increasing security & usability 
+
+Junior Java Developer
+Carroll
+01/2010 - 01/2014
+Seattle, WA
+Carroll specializes in building and maintaining websites for enterprises. Their portfolio has over 500 sites.
+ - Developed and integrated 3 processes into bank tasks life cycle management system, saving over 50h of labor per week
+ - Created a flight schedule search tool for a travel agency using Pathfinders FlightStats API
+ - Participated in more than 4 projects per year from initial research and conceptual design through testing and implementation phases
+ - Cooperated with the UX department to create a new look and feel for the website, implemented changes with jQuery library extensions, Ajax & CSS
+ - Completed over 300h of training in UX and UI design implementation
+
+
+Skills
+======
+Front-End stack
+ - HTML
+ - XML
+ - DOM
+ - CSS
+ - Java
+ - JS
+ - jQuery
+ - Angular
+ - Vue
+ - EJB2
+ - React
+ - Swing
+ - UX
+ - UI
+ - Bootstrap
+
+Back-End stack
+ - Python
+ - SQL
+ - Spring
+ - Java EE
+ - REST
+ - JSON
+ -  API
+ - Hibernate
+ - Node
+
+Data
+ - Kafka
+ - Redis
+ - MySQL
+ - MongoDB
+ - Amazon Web Services
+
+Development
+ - Eclipse
+ - Maven
+ - GIT
+ - Scrum
+ - Agile
+ - Version Control
+ - Android
+ - Azure
+ - JUnit
+ - Maven
+

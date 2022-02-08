@@ -1,0 +1,353 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.sidebar {
+    background-color: #eff1e2cc;
+    /* width: 50vw; */
+    font-family:  'Fira Sans',sans-serif ;
+    height: 120vh;
+    transition: transform 0.3s ease-in; 
+}
+ .sidebar nav{
+      padding: 50px;
+
+    
+ }
+  .sidebar nav li {
+      list-style: none;
+      font-size: 25px;
+      padding: 25px 0;
+  }
+   .sidebar nav li a{
+       text-decoration: none;
+       color: rgb(34, 31, 31);
+   }
+
+
+   
+
+  .main {
+    /* background-image: linear-gradient(to right, #12d4e8b8, #17d6f40d); */
+    background-color: rgb(64, 64, 68);
+    background-position: center;
+    height: 120vh;
+    width: 120vw;
+    
+}
+ .service container{
+     color: chartreuse;
+ }
+
+ .container {
+    display: flex;
+
+}
+ .infoContainer{
+     height: 50vh;
+     width: 80vw;
+     margin: 200px 100px;
+     display: center;
+     justify-content: space-around;
+     padding: 20px;
+     position: relative;
+     bottom: 50px;
+     color: yellow;
+ } 
+
+  .divInfo{
+      font-size: 16px;
+      display: flex;
+      justify-content: center; 
+      /* align-items: center; */
+      flex-direction:column; 
+      font-family: 'Source Code Pro',monospace;
+   }
+   .hello{
+       font-size: 5em;
+       
+   }
+   .name{ 
+       font-size: 5em;
+       font-weight: 600;
+   }
+    .about{
+        font-size: 3em;
+    }
+   .moreabout{
+       font-size: 2em;
+       margin-top: 23px;
+       font-family: 'Fira Sans',sans-serif;
+   }
+   .moreabout{
+       font-size: 2em;
+       margin-top: 23px;
+       font-family: 'Fira Sans',sans-serif;
+   }
+    
+    
+    .buttons{
+        margin-top: 2.2em;
+        font-size: 16px;
+    
+    }
+   
+
+   .btn{
+    https://media1.thehungryjpeg.com/thumbs2/ori_44683_d83059469a5c665d62121b6d6bc115f487e6ea31_portfolio-design.jpg
+   }
+    .btn-sm{
+        font-size: 10px;
+        padding: 7px 13px;
+        margin: 10px 0;
+    }
+    .btn:hover{
+        background-color: white;
+        color: dodgerblue;
+    }
+
+   .divPic img {
+       height: 70vh;
+       width: 30vw;
+       background-color: yellow;
+       border-radius: 400px;
+       position: relative;
+       bottom: 400px; 
+       left: 600px;
+       
+   }
+    .contactform {
+        font-family: 'Fira Sans',sans-serif;
+        margin: 88px;
+        
+    }
+    .contactform h1{ 
+        font-family: 'Source Code Pro',monospace;
+        /* text-align: center; */
+        /* padding: 12px 0; */
+    }
+     .contactform form div{
+         padding: 10px 0;
+         display: flex;
+         flex-direction: column;
+     }
+      .contactform form div input{
+          /* width: 26vw; */
+          border-radius: 5px;
+          margin: 6px 0;
+          padding: 3px;
+      }
+      .contactform form div input{
+          /* width: 26vw; */
+          border-radius: 5px;
+          margin: 0 40px;
+          padding: 3px;
+      }
+      #emailHelp{
+          font-size: 11px;
+          color: midnightblue;
+          margin: 0 5px;
+          padding: 3px 0 0 0;
+      }
+       #form-check{
+           flex-direction: row;
+
+       }
+        #form-check input{
+            width: 24px;
+            margin: 3px 0;
+
+        }
+        .blogItem{
+            margin: 20px;
+            font-family: 'Fira Sans',sans-serif;
+
+        }
+         .blogcontainer{
+             margin: 40px 88px;
+             color: yellow;
+         }
+        
+        h1{
+            font-family: 'Fira Sans',sans-serif;
+            margin: 23px;
+        }
+        
+
+        p{
+            font-family: 'Source Code Pro',monospace;
+
+        }
+         .intro{
+             margin: 40px 88px;
+         }
+         .intro h2{
+             font-family: 'Fira Sans',sans-serif;
+             margin: 12px;
+
+            }
+         .intro p{
+             font-family: 'Source Code Pro',monospace;
+             margin: 12px;
+         }
+          .skillcontainer{
+              padding: 12px;
+          }
+           .skillItem{
+               display: flex;
+               align-items: center;
+               font-family: 'Source Code Pro',monospace;
+               font-weight: 900;
+           }
+          .skill{
+              width: 265px;
+              height: 6px;
+              background-color: brown;
+          }
+            .hundred{
+                width: 265px;
+                background-color: cadetblue;
+
+            }
+            .fifty{
+                width: 88px;
+                /* background-color: aqua; */
+
+            }
+            .t5{
+                width: 75px;
+                background-color: blueviolet;
+            }
+            .sidebarGo{
+                transform: translate(-443px, 0px);
+                position: absolute;
+            }
+             .hamburger{
+                 position: absolute;
+                 cursor: pointer;
+                 top: 10px;
+                 left: 10px;
+                 color: aliceblue;
+             }
+              .ham{
+                  margin-top: 10px;
+                  margin-left: 10px;
+                  color:#ffffff;
+              }
+              .cross{
+                  margin-left: 135px;
+                  margin-top:  10px;
+              }
+            
+               .line{
+                   width: 33px;
+                   background-color: aliceblue;
+                   height: 4px;
+                   margin: 3px;
+
+               }
+            @media(max-width: 1615px){
+                *{
+
+                  
+                } 
+                .buttons{
+                    font-size: 10px;
+                }
+                .divInfo{
+                    font-size: 10px;
+                }
+                  .divPic{ 
+                     /* display: none; */
+                 }
+                /* .sidebar{ */
+                     /* transform: translate(-443px, 0px); */
+                     /* position: absolute; */
+                 /* } */
+                /* } */
+                .intro,.blockcontainer,.contactform{
+                    margin: 50px 8px;
+                }
+                *{
+                    margin: 0;
+                    padding: 0;
+                    box-sizing: border-box;
+                }
+                .container{
+                    max-width: 1370px;
+                    /* background-color: red; */
+                }
+
+                .footer{
+                    /* background-color: #24262b; */
+                }
+                .footer-col{
+                    /* background-color: #24262b; */
+                    padding: 0px 0;
+                }
+                .footer-col{
+                    width: 25%;
+                    padding: 0 0px;
+                    margin: 10px 240px;
+                }
+                .footer-col h4{
+                    font-size: 18px;
+                    color: #ffffff;
+                    text-transform: capitalize;
+                    margin-bottom: 30px;
+                    font-weight: 500;
+                    position: relative;
+                }
+                .footer-col h4::before{
+                    content: '';
+                    position: absolute;
+                    left:0;
+                    bottom: -10px;
+                    background-color: #e91e63;
+                    height: 2px;
+                    box-sizing: border-box;
+                    width: 90px;
+                }.footer-col .social-links a{
+                    display: inline-block;
+                    height: 40px;
+                    width: 40px;
+                    background-color: rgba(255,255,255,0.2);
+                    margin:0 10px 10px 0;
+                    text-align: center;
+                    line-height: 40px;
+                    border-radius: 50%;
+                    color: #ffffff;
+                    transition: all 0.3s ease;
+                }
+                .footer-col .social-links a:hover{
+                    color: #24262b;
+                    background-color: #ffffff;
+                }
+                @media(max-width: 767px){
+                    .footer-col{
+                        width: 50%;
+                        margin-bottom: 30px;
+                    }
+                }
+                @media(max-width: 574px){
+                    .footer-col{
+                        width: 100%;
+                    }
+                }
+                .contact{
+                    background-color: white;
+                    color: dodgerblue;
+                }
+        
+                 
+            
+                
+            
+        
+        
+
