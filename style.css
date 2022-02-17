@@ -39,9 +39,7 @@
     height: 120vh;
     width: 120vw;
     
-}
- .service container{
-     color: chartreuse;
+
  }
 
  .container {
@@ -121,9 +119,18 @@
        left: 600px;
        
    }
+    .services container{
+        color: yellow;
+
+    }
+     .service{
+         color: yellow;
+     }
+     
     .contactform {
         font-family: 'Fira Sans',sans-serif;
         margin: 88px;
+        color:yellow;
         
     }
     .contactform h1{ 
@@ -150,7 +157,7 @@
       }
       #emailHelp{
           font-size: 11px;
-          color: midnightblue;
+          color: rgb(197, 236, 22);
           margin: 0 5px;
           padding: 3px 0 0 0;
       }
@@ -281,10 +288,7 @@
                 .container{
                     max-width: 1370px;
                     /* background-color: red; */
-                }
-
-                .footer{
-                    /* background-color: #24262b; */
+                
                 }
                 .footer-col{
                     /* background-color: #24262b; */
@@ -343,6 +347,9 @@
                     background-color: white;
                     color: dodgerblue;
                 }
+                 .cv.txt{
+                     color: yellow;
+                 }
         
                  
             
